@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimoProgetto</string>
+    <string name="inizio">Clicca su uno dei tasti</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnTest">Test</string>
+    <string name="btnPlay">Play</string>
+</resources>
